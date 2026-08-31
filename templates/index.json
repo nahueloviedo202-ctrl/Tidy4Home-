@@ -339,9 +339,9 @@
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-custom",
-                "custom_button_background": "#472D30",
+                "custom_button_background": "#472d30",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#472D30",
+                "custom_button_border": "#472d30",
                 "link_text_color": "",
                 "width": "fit-content",
                 "custom_width": 100,
@@ -376,7 +376,7 @@
         "section_height": "medium",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#F4F3EE",
+        "background_color": "#f4f3ee",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -390,309 +390,6 @@
         "border_radius": 0,
         "padding-block-start": 20,
         "padding-block-end": 20
-      }
-    },
-    "section_WPXztP": {
-      "type": "section",
-      "blocks": {
-        "text_fBpHLp": {
-          "type": "text",
-          "name": "t:names.heading",
-          "settings": {
-            "text": "<h2>Frequently Asked Questions</h2>",
-            "width": "fit-content",
-            "max_width": "narrow",
-            "alignment": "left",
-            "type_preset": "h2",
-            "font": "var(--font-body--family)",
-            "font_size": "",
-            "font_size_mobile": "2rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "text_color": "",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "accordion_wtdDRb": {
-          "type": "accordion",
-          "name": "t:names.accordion",
-          "settings": {
-            "icon": "caret",
-            "dividers": true,
-            "divider_color": "#b6b4b4",
-            "type_preset": "paragraph",
-            "limit_width_desktop": true,
-            "max_width_desktop": 800,
-            "background_color": "",
-            "text_color": "",
-            "border": "none",
-            "border_width": 1,
-            "border_opacity": 100,
-            "border_color": "",
-            "border_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {
-            "accordion_row_jGX4eg": {
-              "type": "_accordion-row",
-              "settings": {
-                "heading": "Is this a physical product or a digital product?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_yAdWfG": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>This is a digital product. No physical item will be shipped.</p>",
-                    "width": "fit-content",
-                    "max_width": "none",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "font_size_mobile": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "text_color": "",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_yAdWfG"
-              ]
-            },
-            "accordion_row_bHEdG6": {
-              "type": "_accordion-row",
-              "settings": {
-                "heading": "When will I receive the eBook?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_yF9zXw": {
-                  "type": "text",
-                  "settings": {
-                    "text": "<p>You will receive access to the digital product after purchase.</p>",
-                    "width": "fit-content",
-                    "max_width": "none",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "font_size_mobile": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "text_color": "",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_yF9zXw"
-              ]
-            },
-            "accordion_row_bWLCLY": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Do I need any prior experience?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_jMNdL7": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>No. The tips are beginner-friendly and easy to follow.</p>",
-                    "width": "fit-content",
-                    "max_width": "none",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "font_size_mobile": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "text_color": "",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_jMNdL7"
-              ]
-            },
-            "accordion_row_UkbzUQ": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "Can I view the eBook on my phone?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_cLi3n7": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>Yes. You can view the digital exercise guide from your phone, tablet or computer.</p>",
-                    "width": "fit-content",
-                    "max_width": "none",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "font_size_mobile": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "text_color": "",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_cLi3n7"
-              ]
-            },
-            "accordion_row_YRgVMj": {
-              "type": "_accordion-row",
-              "name": "t:names.accordion_row",
-              "settings": {
-                "heading": "How much does shipping cost?",
-                "open_by_default": false,
-                "icon": "none",
-                "width": 20
-              },
-              "blocks": {
-                "text_8TmnkK": {
-                  "type": "text",
-                  "name": "t:names.text",
-                  "settings": {
-                    "text": "<p>Shipping is calculated based on your location and the items in your order. You will always know the shipping price before you purchase.</p>",
-                    "width": "fit-content",
-                    "max_width": "none",
-                    "alignment": "left",
-                    "type_preset": "rte",
-                    "font": "var(--font-body--family)",
-                    "font_size": "",
-                    "font_size_mobile": "",
-                    "line_height": "normal",
-                    "letter_spacing": "normal",
-                    "case": "none",
-                    "wrap": "pretty",
-                    "text_color": "",
-                    "background": false,
-                    "background_color": "#00000026",
-                    "corner_radius": 0,
-                    "padding-block-start": 0,
-                    "padding-block-end": 0,
-                    "padding-inline-start": 0,
-                    "padding-inline-end": 0
-                  },
-                  "blocks": {}
-                }
-              },
-              "block_order": [
-                "text_8TmnkK"
-              ]
-            }
-          },
-          "block_order": [
-            "accordion_row_jGX4eg",
-            "accordion_row_bHEdG6",
-            "accordion_row_bWLCLY",
-            "accordion_row_UkbzUQ",
-            "accordion_row_YRgVMj"
-          ]
-        }
-      },
-      "block_order": [
-        "text_fBpHLp",
-        "accordion_wtdDRb"
-      ],
-      "name": "t:names.faq_section",
-      "settings": {
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "center",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 32,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "background_media": "none",
-        "background_color": "#F4F3EE",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_color": "",
-        "border_radius": 0,
-        "padding-block-start": 64,
-        "padding-block-end": 64
       }
     },
     "comparison_table_j4eGLQ": {
@@ -749,16 +446,16 @@
         "section_width": "page-width",
         "border_radius": 32,
         "brand_column_heading": "Tidy4home",
-        "highlighted_column_background_color": "#4A2C30",
+        "highlighted_column_background_color": "#4a2c30",
         "highlighted_column_text_color": "#ffffff",
         "others_column_heading": "Others",
-        "regular_cell_background_color": "#F4F3EE",
+        "regular_cell_background_color": "#f4f3ee",
         "regular_cell_text_color": "{{ settings.color_palette.foreground }}",
         "check_icon_color": "{{ settings.color_palette.foreground }}",
-        "check_background_color": "#EDEBE2",
+        "check_background_color": "#edebe2",
         "cross_icon_color": "{{ settings.color_palette.background }}",
-        "cross_background_color": "#4A2C30",
-        "background_color": "#F4F3EE",
+        "cross_background_color": "#4a2c30",
+        "background_color": "#f4f3ee",
         "padding-block-start": 60,
         "padding-block-end": 36,
         "padding-inline-start": 0,
@@ -787,7 +484,7 @@
             "height": "fit",
             "custom_height": 100,
             "background_media": "none",
-            "background_color": "#EDEBE2",
+            "background_color": "#edebe2",
             "video_position": "cover",
             "background_image_position": "cover",
             "toggle_overlay": false,
@@ -870,9 +567,9 @@
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-custom",
-                "custom_button_background": "#472D30",
+                "custom_button_background": "#472d30",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#472D30",
+                "custom_button_border": "#472d30",
                 "link_text_color": "",
                 "width": "fit-content",
                 "custom_width": 100,
@@ -1014,7 +711,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#EDEBE2",
+                "background_color": "#edebe2",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1114,7 +811,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#EDEBE2",
+                "background_color": "#edebe2",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1214,7 +911,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#EDEBE2",
+                "background_color": "#edebe2",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1321,7 +1018,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#F4F3EE",
+        "background_color": "#f4f3ee",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -1440,7 +1137,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#F0EEE6",
+        "background_color": "#f0eee6",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -2185,10 +1882,10 @@
         "star_color": "#ffcc00",
         "star_background_color": "#ffcc00",
         "show_quote_icon": true,
-        "quote_icon_color": "#472D30",
+        "quote_icon_color": "#472d30",
         "quote_icon_size_desktop": 30,
         "quote_icon_size_mobile": 24,
-        "card_background_color": "#EDEBE2",
+        "card_background_color": "#edebe2",
         "card_text_color": "",
         "card_padding_block": 20,
         "card_padding_inline": 20,
@@ -2197,7 +1894,7 @@
         "border_width": 1,
         "border_opacity": 100,
         "border_color": "",
-        "background_color": "#F4F3EE",
+        "background_color": "#f4f3ee",
         "padding-block-start": 60,
         "padding-block-end": 60
       }
@@ -2250,11 +1947,11 @@
         "section_width": "page-width",
         "ring_size": 70,
         "ring_thickness": 7,
-        "ring_color": "#4A2C30",
+        "ring_color": "#4a2c30",
         "ring_track_color": "",
         "ring_label_font_size_desktop": 13,
         "ring_label_font_size_mobile": 12,
-        "background_color": "#F4F3EE",
+        "background_color": "#f4f3ee",
         "padding-block-start": 60,
         "padding-block-end": 60
       }
@@ -2348,7 +2045,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#F4F3EE",
+                "background_color": "#f4f3ee",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -2448,7 +2145,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#F4F3EE",
+                "background_color": "#f4f3ee",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -2548,7 +2245,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#F4F3EE",
+                "background_color": "#f4f3ee",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -2655,7 +2352,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#EDEBE2",
+        "background_color": "#edebe2",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -2669,6 +2366,309 @@
         "border_radius": 0,
         "padding-block-start": 60,
         "padding-block-end": 60
+      }
+    },
+    "section_WPXztP": {
+      "type": "section",
+      "blocks": {
+        "text_fBpHLp": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>Frequently Asked Questions</h2>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-body--family)",
+            "font_size": "",
+            "font_size_mobile": "2rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "accordion_wtdDRb": {
+          "type": "accordion",
+          "name": "t:names.accordion",
+          "settings": {
+            "icon": "caret",
+            "dividers": true,
+            "divider_color": "#b6b4b4",
+            "type_preset": "paragraph",
+            "limit_width_desktop": true,
+            "max_width_desktop": 800,
+            "background_color": "",
+            "text_color": "",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "accordion_row_jGX4eg": {
+              "type": "_accordion-row",
+              "settings": {
+                "heading": "Is this a physical product or a digital product?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_yAdWfG": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>This is a digital product. No physical item will be shipped.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_yAdWfG"
+              ]
+            },
+            "accordion_row_bHEdG6": {
+              "type": "_accordion-row",
+              "settings": {
+                "heading": "When will I receive the eBook?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_yF9zXw": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>You will receive access to the digital product after purchase.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_yF9zXw"
+              ]
+            },
+            "accordion_row_bWLCLY": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "Do I need any prior experience?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_jMNdL7": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>No. The tips are beginner-friendly and easy to follow.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_jMNdL7"
+              ]
+            },
+            "accordion_row_UkbzUQ": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "Can I view the eBook on my phone?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_cLi3n7": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Yes. You can view the digital exercise guide from your phone, tablet or computer.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_cLi3n7"
+              ]
+            },
+            "accordion_row_YRgVMj": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "How much does shipping cost?",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_8TmnkK": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Shipping is calculated based on your location and the items in your order. You will always know the shipping price before you purchase.</p>",
+                    "width": "fit-content",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "font_size_mobile": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_8TmnkK"
+              ]
+            }
+          },
+          "block_order": [
+            "accordion_row_jGX4eg",
+            "accordion_row_bHEdG6",
+            "accordion_row_bWLCLY",
+            "accordion_row_UkbzUQ",
+            "accordion_row_YRgVMj"
+          ]
+        }
+      },
+      "block_order": [
+        "text_fBpHLp",
+        "accordion_wtdDRb"
+      ],
+      "name": "t:names.faq_section",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 32,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "#f4f3ee",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 64,
+        "padding-block-end": 64
       }
     },
     "section_KmUmrF": {
@@ -2709,7 +2709,7 @@
             "custom_width_mobile": 100,
             "background_color": "",
             "input_style": "custom",
-            "input_background_color": "#F0EEE6",
+            "input_background_color": "#f0eee6",
             "input_text_color": "{{ settings.color_palette.foreground }}",
             "input_border_color": "{{ settings.color_palette.foreground }}",
             "border_width": 1,
@@ -2726,9 +2726,9 @@
               "settings": {
                 "label": "Send",
                 "style_class": "button-custom",
-                "custom_button_background": "#472D30",
+                "custom_button_background": "#472d30",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#472D30",
+                "custom_button_border": "#472d30",
                 "width": "custom",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
@@ -2758,7 +2758,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#F4F3EE",
+        "background_color": "#f4f3ee",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -2778,7 +2778,6 @@
   "order": [
     "product_list_fa6P9H",
     "section_Cd6VRD",
-    "section_WPXztP",
     "comparison_table_j4eGLQ",
     "hero_hwCGPz",
     "section_3EQChJ",
@@ -2787,6 +2786,7 @@
     "testimonials_7zeqRi",
     "results_RhLgBy",
     "section_LXUL7M",
+    "section_WPXztP",
     "section_KmUmrF"
   ]
 }
