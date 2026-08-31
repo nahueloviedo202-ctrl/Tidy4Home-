@@ -17,7 +17,7 @@
         "announcement_BxgCk9": {
           "type": "_announcement",
           "settings": {
-            "text": "Digital Download — Get Cooking Instantly",
+            "text": "Digital Download — Get Organized Instantly",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -32,7 +32,7 @@
         "announcement_q3NaNh": {
           "type": "_announcement",
           "settings": {
-            "text": "Instant Access — Vegan Recipes, Delivered Digitally",
+            "text": "Instant Access — Start Decluttering Today",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -47,7 +47,7 @@
         "announcement_YChUPc": {
           "type": "_announcement",
           "settings": {
-            "text": "Instant Delivery — Your Vegan Recipe Guide, Ready in Seconds",
+            "text": "Get Your Home Guide Instantly — No Waiting, No Hassle",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
